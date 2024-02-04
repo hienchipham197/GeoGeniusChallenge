@@ -348,7 +348,7 @@ def send_question(s_queue):
 
         s_queue.append({'command': 'question', 'params':obj})
 
-        time.sleep(13)
+        time.sleep(25)
         if counter <= num_of_quest-1:
             counter +=1
 
