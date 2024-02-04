@@ -4,3 +4,9 @@ This quiz game Geo Genius Challenge is a project of Distrubuted Systems course. 
 Hien Chi Pham                                                                                                                                                                                            
 Liya Haile                                                                                                                       
 Omar Afify
+
+# How to start the project?
+1. Change IP address of the network in the file helper.py
+2. Start 3 server files (server1.py, server2.py, server3.py)
+3. Start load balancer (loadbalancer.py)
+4. Start the client files (client1.py, client2.py, client3.py)
